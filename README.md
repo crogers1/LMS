@@ -5,7 +5,7 @@ Really quickly put together (like I did this in 2 hours, and it only took that l
 
 ### Setup and First Run
 
-* Download and install Python3.4 for windows [here](https://www.python.org/ftp/python/3.4.0/python-3.4.0.ms)
+* Download and install Python3.4 for windows [here](https://www.python.org/ftp/python/3.4.0/python-3.4.0.msi)
 * Don't worry about customizing any install settings, everything should be enabled by default.
 * Download lms.py, above.
 * Create a directory named 'songs' in the directory that contains lms.py.
